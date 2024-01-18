@@ -1,4 +1,4 @@
-# arduino-loading-led-array-CPP
+# arduino-loading-led-array-CPP-OOP
 led che si accendono/spengono in ordine. programmato in c++
 
 - 6 led
